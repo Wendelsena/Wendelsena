@@ -18,9 +18,3 @@
   <a href="https://www.linkedin.com/in/wendel-sena-315b05234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-- 🌱 I’m currently learning java
-- 📫 How to reach me: wendelsilva.profissional@gmail.com
-- 😄 Pronouns: he/him
-
-
