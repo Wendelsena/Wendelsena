@@ -1,6 +1,12 @@
 
 - ## Oiii eu sou Wendel, Bem-vinde :D!
 
+<div>
+  <a href="https://github.com/Wendelsena">
+  <img height="180em" src="https://github-readme-starts.vercel.app/api?username=Wendelsena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-starts.vercel.app/api/top-langs/?username=Wendelsena&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Wen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wen-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
