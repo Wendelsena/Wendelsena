@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/wendel-sena-315b05234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.com/invite/yPxhCeqs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "wendelsilva.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://x.com/wen_xml" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
+  <a href="https://https://X.com/wen_xml" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
 </div>
 
 ![snake gif](https://github.com/Wendelsena/Wendelsena/blob/output/github-contribution-grid-snake-dark.svg)
