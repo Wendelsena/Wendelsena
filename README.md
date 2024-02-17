@@ -27,4 +27,3 @@
   <a href="https://X.com/wen_xml" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
 </div>
 
-![snake gif](https://github.com/Wendelsena/Wendelsena/blob/output/github-contribution-grid-snake-dark.svg)
