@@ -13,7 +13,7 @@
   <img align="center" alt="Wen-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Wen-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wen-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="120" width="120" border-radius="30" alt="Cat-lol"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlmdGthbGEwZDZzYTk1b291YnJmdWlhZ3FzMDQ2MGo3cDU0MmJpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif">
+  <img align="right" height="110" width="110" border-radius="30" alt="Cat-lol"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlmdGthbGEwZDZzYTk1b291YnJmdWlhZ3FzMDQ2MGo3cDU0MmJpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif">
     </div>
   
   ##
