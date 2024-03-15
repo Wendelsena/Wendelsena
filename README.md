@@ -1,6 +1,6 @@
 
 - ## Oiii eu sou Wendel, bem-vindx :D!
-🏳️‍🌈
+
 <div>
   <a href="https://github.com/Wendelsena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelsena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
