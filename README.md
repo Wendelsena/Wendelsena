@@ -1,30 +1,52 @@
+<h1 align="center">Olá, eu sou Wendel Sena 👋</h1>
 
-- ## Oiii eu sou Wendel, bem-vindx :D!
+<p align="center">Desenvolvedor apaixonado por tecnologia, movido por propósito e com foco em construir soluções que fazem a diferença.</p>
 
-<div>
-  <a href="https://github.com/Wendelsena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelsena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendelsena&layout=compact&langs_count=16&theme=dracula"/>
+---
+
+### 🚀 Sobre mim
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Itu.  
+💡 Cursando Gestão da Tecnologia da Informação pela FATEC Itu. 
+🤝 Apaixonado por desenvolvimento web, mobile e tudo que envolve inovação.  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wen-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Wen-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wen-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Wen-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wen-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wen-dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="right" height="110" width="110" border-radius="30" alt="Cat-lol"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlmdGthbGEwZDZzYTk1b291YnJmdWlhZ3FzMDQ2MGo3cDU0MmJpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif">
-    </div>
-  
-  ##
- 
-<div> 
-  <a href ="https://wa.me/qr/P2UN74QWTDPCP1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://instagram.com/wen_gss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wendel-sena-315b05234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://discord.com/invite/yPxhCeqs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "wendelsilva.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://X.com/wen_xml" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelsena&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendelsena&layout=compact&langs_count=8&theme=ayu-mirage"/>
 </div>
 
+---
+
+### 🌐 Onde me encontrar
+
+<div style="display: flex; gap: 10">
+  <a href="https://wa.me/qr/P2UN74QWTDPCP1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://instagram.com/wen_gss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wendel-sena-315b05234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discord.com/invite/yPxhCeqs" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:wendel.g.sena@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/wen_xml" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</div>
+
+---
+
+<p align="center">
+  <em>“Tecnologia com propósito é ferramenta de mudança.”</em>
+</p>
