@@ -1,14 +1,10 @@
 <h1 align="center">Olá, eu sou Wendel Sena 👋</h1>
 
-<p align="center">Desenvolvedor apaixonado por tecnologia, movido por propósito e com foco em construir soluções que fazem a diferença.</p>
-
----
-
 ### 🚀 Sobre mim
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Itu.  
-💡 Cursando Gestão da Tecnologia da Informação pela FATEC Itu. 
-🤝 Apaixonado por desenvolvimento web, mobile e tudo que envolve inovação.  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Itu.  
+- 💡 Cursando Gestão da Tecnologia da Informação.
+- 🤝 Apaixonado por tudo que envolve inovação e tecnologia.  
 
 ---
 
