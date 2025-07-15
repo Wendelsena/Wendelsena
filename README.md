@@ -1,10 +1,9 @@
 <h1 align="center">Olá, eu sou Wendel Sena 👋</h1>
 
-### 🚀 Sobre mim
+### 🚀 Formação
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Itu.  
-- 💡 Cursando Gestão da Tecnologia da Informação.
-- 🤝 Apaixonado por tudo que envolve inovação e tecnologia.  
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Itu.  
+💡 Cursando Gestão da Tecnologia da Informação.
 
 ---
 
@@ -20,6 +19,7 @@
 </div>
 
 ---
+
 
 ### 📊 GitHub Stats
 
@@ -42,7 +42,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <em>“Tecnologia com propósito é ferramenta de mudança.”</em>
-</p>
