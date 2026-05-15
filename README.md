@@ -1,9 +1,9 @@
-<h1 align="center">Olá, eu sou Wendel Sena 👋</h1>
+<h1 align="center">Oi, eu sou Wendel 👋</h1>
 
 ### 🚀 Formação
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Itu.  
-💡 Cursando Gestão da Tecnologia da Informação.
+💡 Atualmente trabalhando como dev e adm de BD
 
 ---
 
