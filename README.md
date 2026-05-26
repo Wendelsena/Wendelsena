@@ -1,4 +1,4 @@
-<h1 align="center">Wendel Gabriel</h1>
+<h1 align="center">Wendel Sena</h1>
 
 <p align="center">
   Desenvolvedor • Banco de Dados • Infraestrutura • Back-end
