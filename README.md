@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/workflows/header.png" alt="Header">
+</p>
+
 <h1 align="center">Wendel Sena</h1>
 
 <p align="center">
