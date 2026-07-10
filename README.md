@@ -91,8 +91,4 @@
   <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
 
-<a href="https://x.com/wen_xml" target="_blank">
-  <img src="https://img.shields.io/badge/X-121212?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
 </div>
