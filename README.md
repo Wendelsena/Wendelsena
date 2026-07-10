@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Wendelsena">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end;Administrador+de+Banco+de+Dados;PHP+%7C+JavaScript+%7C+SQL;Linux+%7C+Redes+%7C+Infraestrutura" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end;Administrador+de+Banco+de+Dados;PHP+%7C+Java+%7C+SQL;Linux+%7C+Redes+%7C+Infraestrutura" />
   </a>
 </p>
 
