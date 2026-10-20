@@ -42,7 +42,6 @@
 </td></tr></table>
 
 </div>
----
 
 <div align="center">
 
@@ -116,7 +115,6 @@
 </tr></table>
 
 </div>
----
 
 <div align="center">
 
@@ -144,8 +142,6 @@
   <img src="./green.gif" width="100%" alt="Animação de encerramento" />
 
 </div>
-
----
 
 <div align="center">
 
