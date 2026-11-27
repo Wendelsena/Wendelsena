@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./green.jpg" width="100%" height="100" alt="Capa do perfil" />
+<img src="./green.jpg" width="100%" height="80" alt="Capa do perfil" />
 
 <br>
 
