@@ -1,6 +1,10 @@
 
 <div align="center">
 
+<img src="./green.jpg" width="100%" alt="Capa do perfil" />
+
+<br>
+
 # Wendel Sena
 
 **DBA & Desenvolvedor de Software**
