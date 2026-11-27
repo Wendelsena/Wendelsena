@@ -3,7 +3,7 @@
 
 # Wendel Sena
 
-**Desenvolvedor de Software**
+**DBA & Desenvolvedor de Software**
 
 Desenvolvimento de aplicações web e mobile, integração de sistemas e bancos de dados.
 
