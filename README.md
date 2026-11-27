@@ -89,7 +89,7 @@ Tenho interesse em desenvolvimento backend, arquitetura de aplicações, automa�
   <img src="https://img.shields.io/badge/SSH-355E3B?style=flat-square&logo=openssh&logoColor=white" />
 </p>
 
-## Projetos
+## Alguns projetos
 
 | Repositório | Descrição |
 |---|---|
